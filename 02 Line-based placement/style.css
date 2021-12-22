@@ -60,6 +60,7 @@ body {
     grid-row-start: 1;
     grid-row-end: 2;
 }
+/* my solution */
 
 .a1{
     grid-column-start: 2;
